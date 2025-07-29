@@ -1,6 +1,6 @@
 # JavaFX Snake Game
 
-A beautiful, modern Snake game built with JavaFX featuring smooth gameplay, elegant graphics, and intuitive controls.
+A modern Snake game built with JavaFX featuring smooth gameplay, elegant graphics, and intuitive controls.
 
 ## Features
 
