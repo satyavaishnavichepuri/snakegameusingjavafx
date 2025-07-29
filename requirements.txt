@@ -1,0 +1,32 @@
+# Java Snake Game Requirements
+
+# Java Runtime Requirements:
+# - Java 11 or higher (recommended: Java 17+)
+# - JavaFX SDK 17+ (for GUI components)
+
+# For Ubuntu/Debian systems:
+# sudo apt update
+# sudo apt install openjdk-17-jdk openjfx
+
+# For CentOS/RHEL/Fedora systems:
+# sudo dnf install java-17-openjdk-devel openjfx
+
+# For Arch Linux:
+# sudo pacman -S jdk17-openjdk java-openjfx
+
+# For macOS (using Homebrew):
+# brew install openjdk@17
+# brew install openjfx
+
+# For Windows:
+# Download and install OpenJDK 17+ from https://adoptium.net/
+# Download JavaFX SDK from https://openjfx.io/
+
+# Alternative: Download JavaFX SDK manually
+# 1. Download JavaFX SDK from: https://gluonhq.com/products/javafx/
+# 2. Extract to a folder (e.g., /opt/javafx or C:\javafx)
+# 3. Add --module-path and --add-modules flags when running (see README.md)
+
+# Gradle Dependencies (if using Gradle):
+# implementation 'org.openjfx:javafx-controls:17.0.2'
+# implementation 'org.openjfx:javafx-fxml:17.0.2'
